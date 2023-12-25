@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **EcoGarden**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native and php**
 
 - 💬 Ask me about **MERN, Flutter & Dart**
 
