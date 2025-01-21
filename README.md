@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanikk&label=Profile%20views&color=0e75b6&style=flat" alt="shehanikk" /> </p>
 
-- 🔭 I’m currently working on **EcoGarden**
+- 🔭 I’m currently working on **NEXA**
 
-- 🌱 I’m currently learning **React Native and php**
-
-- 💬 Ask me about **MERN, Flutter & Dart**
+- 🌱 I’m currently learning **php & laravel**
 
 - 📫 How to reach me **park.shehani.7@gmail.com**
 
